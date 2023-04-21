@@ -12,13 +12,17 @@ Actually I am a bachelor in arts student and I love everything about drawing, pa
 
 1. I'm an Ilustrator. I enjoy doing fantasy creatures, thing about some stories and make landscape.
 2. Freelance programer (Back - end)
-3. I'm learning front - end with CSS - HTML - JS
+3. I'm learning Front - End with CSS - HTML - JS
 4. I'm going deeper in SQL lenguage
 
 ### Find me around the web 😄⚡
 
 - [Linkedin](https://www.linkedin.com/in/jonathan-david-ramos-gallego-208007251/)
 - [Instagram](https://www.instagram.com/sparklecow/)
+
+<div align = "center">
+  <img src = "https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width = 200px />
+<div/>
 
 
 
