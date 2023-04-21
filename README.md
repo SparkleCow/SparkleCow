@@ -1,4 +1,28 @@
-### Hi there 👋
+# Greetings everyone ✨🐮👋
+
+## Who I am ? 🤔
+
+Hi there, I'm Jonathan Ramos aka (SparkleCow) <br/>
+I'm from Colombia, I speak spanish, english and currently Im learning brazilian - portugues
+<br/><br/>
+Well, basically I'm a freelance programmer who is completely passionate about development, coding and art. <br/>
+Actually I am a bachelor in arts student and I love everything about drawing, painting and design. <br/><br/>
+
+### What I currently do ? 💬
+
+1. I'm an Ilustrator. I enjoy doing fantasy creatures, thing about some stories and make landscape.
+2. Freelance programer (Back - end)
+3. I'm learning front - end with CSS - HTML - JS
+4. I'm going deeper in SQL lenguage
+
+### Find me around the web 😄⚡
+
+- [Linkedin](https://www.linkedin.com/in/jonathan-david-ramos-gallego-208007251/)
+- [Instagram](https://www.instagram.com/sparklecow/)
+
+
+
+
 
 <!--
 **SparkleCow/SparkleCow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
