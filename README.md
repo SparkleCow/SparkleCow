@@ -20,6 +20,11 @@ Actually I am a bachelor in arts student and I love everything about drawing, pa
 - [Linkedin](https://www.linkedin.com/in/jonathan-david-ramos-gallego-208007251/)
 - [Instagram](https://www.instagram.com/sparklecow/)
 
+### Alura Badges
+
+![insignia](https://user-images.githubusercontent.com/55297516/236703525-82e438f5-154e-4bf6-867d-a2cee62889fc.png)
+![cms_files_10224_1677508436Prancheta_1](https://user-images.githubusercontent.com/55297516/236703526-2d558448-8672-45a4-9adb-d0f250cc585b.png)
+
 <div align = "center">
   <img src = "https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width = 200px />
 <div/>
