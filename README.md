@@ -8,12 +8,20 @@ I'm from Colombia, I speak spanish, english and currently Im learning brazilian 
 Well, basically I'm a freelance programmer who is completely passionate about development, coding and art. <br/>
 Actually I am a bachelor in arts student and I love everything about drawing, painting and design. <br/><br/>
 
+
 ### What I currently do ? 💬
 
 1. I'm an Ilustrator. I enjoy doing fantasy creatures, thing about some stories and make landscape.
 2. Freelance programer (Back - end)
 3. I'm learning Front - End with CSS - HTML - JS
 4. I'm going deeper in SQL lenguage
+<br>
+
+![insignia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![insignia](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![insignia](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+<br>
 
 ### Find me around the web 😄⚡
 
@@ -22,8 +30,12 @@ Actually I am a bachelor in arts student and I love everything about drawing, pa
 
 ### Alura Badges
 
-![insignia](https://user-images.githubusercontent.com/55297516/236703525-82e438f5-154e-4bf6-867d-a2cee62889fc.png)
-![cms_files_10224_1677508436Prancheta_1](https://user-images.githubusercontent.com/55297516/236703526-2d558448-8672-45a4-9adb-d0f250cc585b.png)
+<div align = "center">
+  <img src = "https://user-images.githubusercontent.com/55297516/236703525-82e438f5-154e-4bf6-867d-a2cee62889fc.png"/>
+</div>
+<div align = "center">
+  <img src = "https://user-images.githubusercontent.com/55297516/236703526-2d558448-8672-45a4-9adb-d0f250cc585b.png"/>
+</div>
 
 <div align = "center">
   <img src = "https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width = 200px />
