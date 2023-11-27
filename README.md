@@ -13,8 +13,8 @@ Actually I am a bachelor in arts student and I love everything about drawing, pa
 
 1. I'm an Ilustrator. I enjoy doing fantasy creatures, thing about some stories and make landscape.
 2. Freelance programer (Back - end)
-3. I'm learning Front - End with CSS - HTML - JS
-4. I'm going deeper in SQL lenguage
+3. I'm learning Front - End with CSS - HTML - JS and React
+4. I'm going deeper in SQL and NoSQL
 <br>
 
 ![insignia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
