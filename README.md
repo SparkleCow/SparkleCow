@@ -8,13 +8,15 @@ I'm from Colombia, I speak spanish, english and currently Im learning brazilian 
 Well, basically I'm a freelance programmer who is completely passionate about development, coding and art. <br/>
 Actually I am a bachelor in arts student and I love everything about drawing, painting and design. <br/><br/>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl4d2M0cG92cXZrZjhxMHllMXNkcGxwcnhydm12MmVub2V1ZDl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" width=300px>
 
 ### What I currently do ? 💬
 
-1. I'm an Ilustrator. I enjoy doing fantasy creatures, thing about some stories and make landscape.
-2. Freelance programer (Back - end)
-3. I'm learning Front - End with CSS - HTML - JS and React
+1. I'm an Ilustrator. I enjoy doing fantasy creatures, thing about some stories and make landscape. 🌱
+2. Backend developer with Spring and Java ✨
+3. I'm learning Front - End with Angular
 4. I'm going deeper in SQL and NoSQL
+5. I'm learning about networks ⚡
 <br>
 
 ![insignia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
