@@ -14,14 +14,25 @@ Actually I am a bachelor in arts student and I love everything about drawing, pa
 
 1. I'm an Ilustrator. I enjoy doing fantasy creatures, thing about some stories and make landscape. 🌱
 2. Backend developer with Spring and Java ✨
-3. I'm learning Front - End with Angular
+3. Frontend developer with Angular 
 4. I'm going deeper in SQL and NoSQL
-5. I'm learning about networks ⚡
+5. Exploring cloud platforms like AWS and Azure ☁️
+6. I'm learning about networks ⚡
 <br>
 
 ![insignia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![insignia](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![insignia](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![insignia](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![insignia](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![insignia](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![insignia](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![insignia](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![insignia](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![insignia](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![insignia](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![insignia](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
@@ -30,22 +41,15 @@ Actually I am a bachelor in arts student and I love everything about drawing, pa
 - [Linkedin](https://www.linkedin.com/in/jonathan-david-ramos-gallego-208007251/)
 - [Instagram](https://www.instagram.com/sparklecow/)
 
-### Alura Badges
+### Projects 🚀
 
-<div align = "center">
-  <img src = "https://user-images.githubusercontent.com/55297516/236703525-82e438f5-154e-4bf6-867d-a2cee62889fc.png"/>
-</div>
-<div align = "center">
-  <img src = "https://user-images.githubusercontent.com/55297516/236703526-2d558448-8672-45a4-9adb-d0f250cc585b.png"/>
-</div>
+Here are some of my personal projects:
 
-<div align = "center">
-  <img src = "https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width = 200px />
-<div/>
+- **[CowSalud](https://github.com/SparkleCow/Cowsalud-EPS)** - A medical appointment scheduling system to help users book consultations with healthcare providers.
+- **[Velas Candil](https://github.com/SparkleCow/Velas)** - A business management tool for a candle company, focusing on inventory and order management.
+- **[CowPastelitoRadio](https://github.com/SparkleCow/Cow-PastelitoRadio)** - A music streaming platform for listening to and discovering new tracks.
 
-
-
-
+Feel free to explore and check out the code!
 
 <!--
 **SparkleCow/SparkleCow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
