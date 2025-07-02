@@ -2,7 +2,7 @@
 
 ## Who I am ? 🤔
 
-Hi there<br/>
+Hi there, I'm Jonathan Ramos aka (SparkleCow)<br/>
 I'm from Colombia, I speak spanish, english and currently Im learning brazilian - portugues
 <br/><br/>
 Well, basically I'm a freelance programmer who is completely passionate about development, coding and art. <br/>
