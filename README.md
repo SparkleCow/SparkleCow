@@ -44,9 +44,9 @@ Actually I am a bachelor in arts student and I love everything about drawing, pa
 Here are some of my personal projects:
 <br>
 
-![CowSalud](https://img.shields.io/badge/CowSalud-4CAF50?style=for-the-badge&logo=github&logoColor=white) 
-![Velas Candil](https://img.shields.io/badge/Velas%20Candil-FF9800?style=for-the-badge&logo=github&logoColor=white) 
-![CowPastelitoRadio](https://img.shields.io/badge/CowPastelitoRadio-2196F3?style=for-the-badge&logo=github&logoColor=white)
+[![CowSalud](https://img.shields.io/badge/CowSalud-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SparkleCow/Cowsalud-EPS)
+[![Velas Candil](https://img.shields.io/badge/Velas%20Candil-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SparkleCow/Velas)
+[![CowPastelitoRadio](https://img.shields.io/badge/CowPastelitoRadio-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SparkleCow/Cow-PastelitoRadio)
 
 <br>
 <br>
