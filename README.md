@@ -2,6 +2,8 @@
 
 ## Who I am ? 🤔
 
+<BR>i like the dogs 
+
 Hi there, I'm Jonathan Ramos aka (SparkleCow)<br/>
 I'm from Colombia, I speak spanish, english and currently Im learning brazilian - portugues
 <br/><br/>
